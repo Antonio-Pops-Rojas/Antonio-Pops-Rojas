@@ -1,4 +1,5 @@
 ### Hi there 👋
+I code sometimes.
 
 <!--
 **Antonio-Pops-Rojas/Antonio-Pops-Rojas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
